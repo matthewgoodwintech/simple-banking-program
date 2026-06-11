@@ -1,4 +1,7 @@
+# Matthew Goodwin
 # Simple Banking Program
+# Beginner Python Project
+# Created while learning Python fundamentals# Simple Banking Program
 
 balance = 0.0
 
